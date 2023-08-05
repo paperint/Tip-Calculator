@@ -238,7 +238,7 @@ function Homepage() {
               />
             </div>
           </div>
-          <div className="flex flex-col items-center justify-between flex-1 w-full p-6 rounded-lg bg-cyan-950 w-96">
+          <div className="flex flex-col items-center justify-between flex-1 w-full p-6 rounded-lg bg-cyan-950">
             <div className="flex flex-col w-full gap-5">
               <div className="flex items-center justify-between">
                 <div>
